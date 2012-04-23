@@ -1,0 +1,4 @@
+inherit mate
+
+
+SRC_URI=${P}.tar.xz
