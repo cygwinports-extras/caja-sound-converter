@@ -1,5 +1,0 @@
-category: MATE
-requires: gstreamer0.10-plugins-base gstreamer0.10-plugins-ffmpeg gstreamer0.10-plugins-flac gstreamer0.10-plugins-gio gstreamer0.10-plugins-mad gstreamer0.10-plugins-musepack gstreamer0.10-plugins-ogg gstreamer0.10-plugins-vorbis gstreamer0.10-plugins-wavpack libgcc1 libglib2.0_0 libgstreamer0.10_0 libgtk2.0_0 libintl8 libmateconf2_4 libmate-media-profiles0 mate-conf mate-file-manager
-sdesc: "Audio file conversion extension for Caja (mate-file-manager)"
-ldesc: "The Caja-Sound-Converter extension allows you to convert 
-audio files to different formats using the GStreamer framework."
